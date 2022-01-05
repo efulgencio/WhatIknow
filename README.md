@@ -1,9 +1,5 @@
 # WhatIknow
 
-CONTENT_BOOK_PDF
-
-Intermediate iOS 11 Programming Swift
-
 - Buiding Adaptive User Interfaces
 - Adding Sections and Index list in UITableView
 - Animating Table View Cells
@@ -48,10 +44,6 @@ Intermediate iOS 11 Programming Swift
 - Working with 3D Objects in Augmented using ARkit and SceneKit
 
 
-
-Masteringios11programming
-
-
 - UITableView Touch Up
 - A Better Layout with UICollectionView
 - Creating a Contact Details Page
@@ -78,10 +70,7 @@ Masteringios11programming
 - Wrapping Up the Development Cycle and Submitting to the App Store.
 
 ABOUT ARKIT
-
 WHAT I CAN DO?
-
-Course: Mastering ARKIT for iOS
 
 - Adding Virtual Objects to the Real World
 - Displaying Virtual Text in Real World
@@ -106,8 +95,6 @@ Course: Mastering ARKIT for iOS
 - MapBox with ARKit
 - Scanning and detecting 3D objects
 
-Course: ARKit Basketball: create your first AR app using ARKit
-
 - UFO and Shutlle Launch
 - Solar Sytem
 - Ikea App
@@ -118,15 +105,6 @@ create action
 creating user interface
 custom button
 
-Course: IOS ARKit Devlopement (arabe)
-
-Course: Curso completo de ARKIT para iOs con 7 apps profesionales
-
-- App Mundo y Luna en Realidad Aumentada
-- App dados
-- Deteccuib de imagenes (anclar objeto en un plano)
-- Portal
-- App coche
 
 
 
